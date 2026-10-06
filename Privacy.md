@@ -1,1 +1,3 @@
+---
+---
 Privacy Policy for Work Foundery Pin Scheduler. This is a personal tool used only by the shop owner. It accesses the owner's own Pinterest account (boards, pins and pin analytics) and public listing data from the owner's own Etsy shop. It does not collect, sell or share personal data about any other person. Data is stored only in the owner's private Google Sheet. Contact: [ztbl24413@gmail.com]. 
